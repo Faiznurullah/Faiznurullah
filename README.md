@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Welcome to my profile github👋
 
 <!--
 **Faiznurullah/Faiznurullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3><b>Bio Data:</b></h3><br>
+<b><i>Full Name: Faiz Nurullah</i></b><br>
+<b><i>Nick Name: Grakody</i></b><br>
+<b><i>Gender: Male</i></b><br>
+<b><i>Place, Date of Brithday: Cirebon, March 22'st 2004</i></b><br>
+<b><i>Address: Jln.Pangeran Sutajaya, Cirebon</i></b><br>
+<b><i>Hobby: Eat,Sleep,Ngoding ⚡</i></b>
