@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href='https://postimg.cc/xXhLJ38t' target='_blank'><img src='https://i.postimg.cc/xXhLJ38t/profile.png' border='0' alt='profile'/></a>
 <h3><b>Bio Data:</b></h3><br>
 <b><i>Full Name: Faiz Nurullah</i></b><br>
 <b><i>Nick Name: Grakody</i></b><br>
