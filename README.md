@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <b><i>Gender: Male</i></b><br>
 <b><i>Place, Date of Brithday: Cirebon, March 22'st 2004</i></b><br>
 <b><i>Address: Jln.Pangeran Sutajaya, Cirebon</i></b><br>
-<b><i>Hobby: Eat,Sleep,Ngoding,Repeat ⚡</i></b><br>
+<b><i>Hobby: Eat,Sleep,Ngoding,Repeat ⚙️</i></b><br>
 
 <b>Let's Connect</b><br>
 <a href="https://Faiznurullah.xyz" target="blank"><img src="https://img.shields.io/badge/Website-https://Faiznurullah.xyz-green?" /></a><br>
