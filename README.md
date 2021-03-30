@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <b><i>Hobby: Eat->Ngoding->Sleep->Repeat ⚙️</i></b><br>
 
 <b>Let's Connect</b><br>
-<a href="https://Faiznurullah.xyz" target="blank"><img src="https://img.shields.io/badge/Website-https://Faiznurullah.xyz-green?" /></a><br>
+<a href="https://faiznurullah.github.io/ target="blank"><img src="https://img.shields.io/badge/Website-https://faiznurullah.github.io/-green?" /></a><br>
