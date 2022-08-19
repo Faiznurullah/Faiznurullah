@@ -1,10 +1,27 @@
-![Readme](https://user-images.githubusercontent.com/59213454/128175650-3d5ea13d-f092-4b17-a500-21bb1fa1734d.png)
+# Hello Everyone! 👋
 
-<p align="left">
+Hi, my name is Faiz nurullah, in the world of information technology I am a junior programmer and I am also an enthusiast in oil and gas. As a junior programmer, I have experience as a web developer, game developer, data scientist. I hope that I will continue to add experience, because with experience in that world we can learn many things for future work.
 
+### 😄 Pronouns
+He/Him
+
+### 🌱 What do I do and What have I done? 
+- Create Game For Game Jam competition
+- Creating Simple Web Apps For Government Agencies
+
+### 📫 How to reach me?
+- [Twitter](https://twitter.com/Faiznurullah_75) 
+- [LinkedIn](https://www.linkedin.com/in/faiznurullah/) 
+- [My personal portfolio](https://faiznurullah.xyz) 
+- [Facebook](https://web.facebook.com/faiznurullah66) 
+- [Blog](https://www.blogger.com/profile/02478102505792010827)
+
+
+### Quick overview
+
+- Programming language stats
 <a href="https://github.com/faiznurullah">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faiznurullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 &nbsp; 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faiznurullah&layout=compact&langs_count=8&theme=algolia"/>
 
