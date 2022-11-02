@@ -16,6 +16,7 @@ He/Him
 - [Facebook](https://web.facebook.com/faiznurullah66) 
 - [Blog](https://www.blogger.com/profile/02478102505792010827)
 - [itch.io](https://grakody.itch.io/)
+- [DEV](https://dev.to/faiznurullah)
 
 
 
