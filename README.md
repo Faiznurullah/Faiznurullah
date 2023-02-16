@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-Hi, my name is Faiz nurullah, in the world of information technology I am a junior programmer and I am also an enthusiast in oil and gas. As a junior programmer, I have experience as a web developer, game developer, data scientist. I hope that I will continue to add experience, because with experience in that world we can learn many things for future work.
+Hi, my name is Faiz nurullah, in the world of information technology I am a junior programmer. As a junior programmer, I have experience as a web developer, game developer, data scientist. I hope that I will continue to add experience, because with experience in that world we can learn many things for future work.
 
 ### 😄 Pronouns
 He/Him
