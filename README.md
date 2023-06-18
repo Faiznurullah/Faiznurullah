@@ -5,10 +5,6 @@ Hi, my name is Faiz nurullah, in the world of information technology I am a juni
 ### 😄 Pronouns
 He/Him
 
-### 🌱 What do I do and What have I done? 
-- Create Game For Game Jam competition
-- Creating Simple Web Apps For Government Agencies
-
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/Faiznurullah_75) 
 - [LinkedIn](https://www.linkedin.com/in/faiznurullah/) 
