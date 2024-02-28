@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-Hi, my name is Faiz nurullah, in the world of information technology I am a junior programmer. As a junior programmer, I have experience as a web developer, game developer, data scientist. I hope that I will continue to add experience, because with experience in that world we can learn many things for future work.
+Hi, my name is Faiz nurullah.
 
 ### 😄 Pronouns
 He/Him
@@ -17,14 +17,6 @@ He/Him
 
 
 ### Quick overview
-
-- Programming language stats
-<a href="https://github.com/faiznurullah">
-
-&nbsp; 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faiznurullah&layout=compact&langs_count=8&theme=algolia"/>
-
-</a>
 
 </p>
 
