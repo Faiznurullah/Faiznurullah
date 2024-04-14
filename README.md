@@ -6,7 +6,6 @@ Hi, my name is Faiz nurullah.
 He/Him
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/Faiznurullah_75) 
 - [LinkedIn](https://www.linkedin.com/in/faiznurullah/) 
 - [My personal portfolio](https://faiznurullah.xyz) 
 - [Facebook](https://web.facebook.com/faiznurullah66) 
